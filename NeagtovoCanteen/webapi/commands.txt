@@ -1,0 +1,3 @@
+﻿
+dotnet ef migrations add AddPrimaryKey --project D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels --startup-project .\webapi\
+dotnet ef database update --project D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels --startup-project .\webapi\

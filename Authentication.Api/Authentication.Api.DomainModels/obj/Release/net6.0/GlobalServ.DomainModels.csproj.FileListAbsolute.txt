@@ -1,0 +1,12 @@
+D:\GlobalServ\GlobalServ.DomainModels\bin\Release\net6.0\GlobalServ.DomainModels.deps.json
+D:\GlobalServ\GlobalServ.DomainModels\bin\Release\net6.0\GlobalServ.DomainModels.dll
+D:\GlobalServ\GlobalServ.DomainModels\bin\Release\net6.0\GlobalServ.DomainModels.pdb
+D:\GlobalServ\GlobalServ.DomainModels\obj\Release\net6.0\GlobalServ.DomainModels.csproj.AssemblyReference.cache
+D:\GlobalServ\GlobalServ.DomainModels\obj\Release\net6.0\GlobalServ.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\GlobalServ\GlobalServ.DomainModels\obj\Release\net6.0\GlobalServ.DomainModels.AssemblyInfoInputs.cache
+D:\GlobalServ\GlobalServ.DomainModels\obj\Release\net6.0\GlobalServ.DomainModels.AssemblyInfo.cs
+D:\GlobalServ\GlobalServ.DomainModels\obj\Release\net6.0\GlobalServ.DomainModels.csproj.CoreCompileInputs.cache
+D:\GlobalServ\GlobalServ.DomainModels\obj\Release\net6.0\GlobalServ.DomainModels.dll
+D:\GlobalServ\GlobalServ.DomainModels\obj\Release\net6.0\refint\GlobalServ.DomainModels.dll
+D:\GlobalServ\GlobalServ.DomainModels\obj\Release\net6.0\GlobalServ.DomainModels.pdb
+D:\GlobalServ\GlobalServ.DomainModels\obj\Release\net6.0\ref\GlobalServ.DomainModels.dll

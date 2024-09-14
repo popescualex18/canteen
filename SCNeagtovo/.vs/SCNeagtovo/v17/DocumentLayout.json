@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Neagtovo\\SCNeagtovo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\infrastructure\\jwtauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\infrastructure\\jwtauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\infrastructure\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\infrastructure\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\infrastructure\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\infrastructure\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\controllers\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\controllers\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\views\\menu\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\views\\menu\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|d:\\neagtovo\\scneagtovo\\scneagtovo\\wwwroot\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{62F50FF4-41EB-48C8-87F6-A2E838AEF8C1}|SCNeagtovo\\SCNeagtovo.csproj|solutionrelative:scneagtovo\\wwwroot\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Program.cs",
+              "RelativeDocumentMoniker": "SCNeagtovo\\Program.cs",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Program.cs",
+              "RelativeToolTip": "SCNeagtovo\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-15T10:06:07.125Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\appsettings.json",
+              "RelativeDocumentMoniker": "SCNeagtovo\\appsettings.json",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\appsettings.json",
+              "RelativeToolTip": "SCNeagtovo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-09-15T11:09:40.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtAuthorizationAttribute.cs",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Infrastructure\\JwtAuthorizationAttribute.cs",
+              "RelativeDocumentMoniker": "SCNeagtovo\\Infrastructure\\JwtAuthorizationAttribute.cs",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Infrastructure\\JwtAuthorizationAttribute.cs",
+              "RelativeToolTip": "SCNeagtovo\\Infrastructure\\JwtAuthorizationAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-15T11:02:19.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Infrastructure\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "SCNeagtovo\\Infrastructure\\JwtSettings.cs",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Infrastructure\\JwtSettings.cs",
+              "RelativeToolTip": "SCNeagtovo\\Infrastructure\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-15T11:07:27.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SCNeagtovo\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SCNeagtovo\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-28T11:18:38.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "SCNeagtovo\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "SCNeagtovo\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-28T11:18:38.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtTokenHelper.cs",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Infrastructure\\JwtTokenHelper.cs",
+              "RelativeDocumentMoniker": "SCNeagtovo\\Infrastructure\\JwtTokenHelper.cs",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Infrastructure\\JwtTokenHelper.cs",
+              "RelativeToolTip": "SCNeagtovo\\Infrastructure\\JwtTokenHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-15T11:06:52.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "SCNeagtovo\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "SCNeagtovo\\Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-28T11:18:37.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SCNeagtovo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SCNeagtovo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-28T11:18:35.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewController.cs",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Controllers\\ViewController.cs",
+              "RelativeDocumentMoniker": "SCNeagtovo\\Controllers\\ViewController.cs",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Controllers\\ViewController.cs",
+              "RelativeToolTip": "SCNeagtovo\\Controllers\\ViewController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-28T11:18:16.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Views\\Menu\\Menu.cshtml",
+              "RelativeDocumentMoniker": "SCNeagtovo\\Views\\Menu\\Menu.cshtml",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Views\\Menu\\Menu.cshtml",
+              "RelativeToolTip": "SCNeagtovo\\Views\\Menu\\Menu.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-08-25T09:28:36.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "menu.css",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\wwwroot\\css\\menu.css",
+              "RelativeDocumentMoniker": "SCNeagtovo\\wwwroot\\css\\menu.css",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\wwwroot\\css\\menu.css",
+              "RelativeToolTip": "SCNeagtovo\\wwwroot\\css\\menu.css",
+              "ViewState": "AQIAAIMEAAAAAAAAAAAiwJ0EAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-08-25T09:31:19.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "SCNeagtovo\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\Neagtovo\\SCNeagtovo\\SCNeagtovo\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "SCNeagtovo\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-25T09:06:31.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Dtos\obj\Release\net7.0\SCNeagtovo.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Dtos\obj\Release\net7.0\SCNeagtovo.Dtos.AssemblyInfoInputs.cache
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Dtos\obj\Release\net7.0\SCNeagtovo.Dtos.AssemblyInfo.cs
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Dtos\obj\Release\net7.0\SCNeagtovo.Dtos.csproj.CoreCompileInputs.cache
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Dtos\bin\Release\net7.0\SCNeagtovo.Dtos.deps.json
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Dtos\bin\Release\net7.0\SCNeagtovo.Dtos.dll
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Dtos\bin\Release\net7.0\SCNeagtovo.Dtos.pdb
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Dtos\obj\Release\net7.0\SCNeagtovo.Dtos.dll
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Dtos\obj\Release\net7.0\refint\SCNeagtovo.Dtos.dll
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Dtos\obj\Release\net7.0\SCNeagtovo.Dtos.pdb
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Dtos\obj\Release\net7.0\ref\SCNeagtovo.Dtos.dll

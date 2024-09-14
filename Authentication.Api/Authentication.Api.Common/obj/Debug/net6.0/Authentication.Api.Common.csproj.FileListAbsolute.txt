@@ -1,0 +1,11 @@
+D:\trunk\Authentication.Api\Authentication.Api.Common\bin\Debug\net6.0\Authentication.Api.Common.deps.json
+D:\trunk\Authentication.Api\Authentication.Api.Common\bin\Debug\net6.0\Authentication.Api.Common.dll
+D:\trunk\Authentication.Api\Authentication.Api.Common\bin\Debug\net6.0\Authentication.Api.Common.pdb
+D:\trunk\Authentication.Api\Authentication.Api.Common\obj\Debug\net6.0\Authentication.Api.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\trunk\Authentication.Api\Authentication.Api.Common\obj\Debug\net6.0\Authentication.Api.Common.AssemblyInfoInputs.cache
+D:\trunk\Authentication.Api\Authentication.Api.Common\obj\Debug\net6.0\Authentication.Api.Common.AssemblyInfo.cs
+D:\trunk\Authentication.Api\Authentication.Api.Common\obj\Debug\net6.0\Authentication.Api.Common.csproj.CoreCompileInputs.cache
+D:\trunk\Authentication.Api\Authentication.Api.Common\obj\Debug\net6.0\Authentication.Api.Common.dll
+D:\trunk\Authentication.Api\Authentication.Api.Common\obj\Debug\net6.0\refint\Authentication.Api.Common.dll
+D:\trunk\Authentication.Api\Authentication.Api.Common\obj\Debug\net6.0\Authentication.Api.Common.pdb
+D:\trunk\Authentication.Api\Authentication.Api.Common\obj\Debug\net6.0\ref\Authentication.Api.Common.dll

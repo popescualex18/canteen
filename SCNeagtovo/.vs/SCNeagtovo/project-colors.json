@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62f50ff4-41eb-48c8-87f6-a2e838aef8c1": {
+      "ProjectGuid": "62f50ff4-41eb-48c8-87f6-a2e838aef8c1",
+      "DisplayName": "SCNeagtovo",
+      "ColorIndex": 0
+    },
+    "c714089a-e5f8-4774-a477-0900d7192561": {
+      "ProjectGuid": "c714089a-e5f8-4774-a477-0900d7192561",
+      "DisplayName": "SCNeagtovo.DataModels",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "fc08dd01-2ac0-43c8-ba8a-694dcddd5567": {
+      "ProjectGuid": "fc08dd01-2ac0-43c8-ba8a-694dcddd5567",
+      "DisplayName": "SCNeagtovo.Common",
+      "ColorIndex": 2
+    },
+    "e5e8acd5-5c2e-40f1-8d60-5b3f9e9b9dee": {
+      "ProjectGuid": "e5e8acd5-5c2e-40f1-8d60-5b3f9e9b9dee",
+      "DisplayName": "SCNeagtovo.DataAccessLayer",
+      "ColorIndex": 3
+    },
+    "047a458c-ffe7-451a-96b5-3ef33d67cd0d": {
+      "ProjectGuid": "047a458c-ffe7-451a-96b5-3ef33d67cd0d",
+      "DisplayName": "SCNeagtovo.BusinessLogic",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

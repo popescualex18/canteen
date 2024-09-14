@@ -1,0 +1,12 @@
+D:\trunk\Authentication.Api\Authentication.Api.DomainModels\bin\Release\net6.0\Authentication.Api.DomainModels.deps.json
+D:\trunk\Authentication.Api\Authentication.Api.DomainModels\bin\Release\net6.0\Authentication.Api.DomainModels.dll
+D:\trunk\Authentication.Api\Authentication.Api.DomainModels\bin\Release\net6.0\Authentication.Api.DomainModels.pdb
+D:\trunk\Authentication.Api\Authentication.Api.DomainModels\obj\Release\net6.0\Authentication.Api.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\trunk\Authentication.Api\Authentication.Api.DomainModels\obj\Release\net6.0\Authentication.Api.DomainModels.AssemblyInfoInputs.cache
+D:\trunk\Authentication.Api\Authentication.Api.DomainModels\obj\Release\net6.0\Authentication.Api.DomainModels.AssemblyInfo.cs
+D:\trunk\Authentication.Api\Authentication.Api.DomainModels\obj\Release\net6.0\Authentication.Api.DomainModels.csproj.CoreCompileInputs.cache
+D:\trunk\Authentication.Api\Authentication.Api.DomainModels\obj\Release\net6.0\Authentication.Api.DomainModels.dll
+D:\trunk\Authentication.Api\Authentication.Api.DomainModels\obj\Release\net6.0\refint\Authentication.Api.DomainModels.dll
+D:\trunk\Authentication.Api\Authentication.Api.DomainModels\obj\Release\net6.0\Authentication.Api.DomainModels.pdb
+D:\trunk\Authentication.Api\Authentication.Api.DomainModels\obj\Release\net6.0\ref\Authentication.Api.DomainModels.dll
+D:\trunk\Authentication.Api\Authentication.Api.DomainModels\obj\Release\net6.0\Authentication.Api.DomainModels.csproj.AssemblyReference.cache

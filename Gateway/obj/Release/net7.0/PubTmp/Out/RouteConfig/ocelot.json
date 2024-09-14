@@ -1,0 +1,55 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "192.168.1.201",
+          "Port": 451
+        }
+      ],
+      "UpstreamPathTemplate": "/auth/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "SwaggerKey": "Authentication"
+    },
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "192.168.1.201",
+          "Port": 450
+        }
+      ],
+      "UpstreamPathTemplate": "/canteen/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Delete" ],
+      "SwaggerKey": "Canteen"
+    }
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "Authentication",
+      "Config": [
+        {
+          "Name": "Authentication API",
+          "Version": "v1",
+          "Url": "http://192.168.1.201:451/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "Canteen",
+      "Config": [
+        {
+          "Name": "Canteen API",
+          "Version": "v1",
+          "Url": "http://192.168.1.201:450/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": ""
+  }
+}

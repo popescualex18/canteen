@@ -1,0 +1,17 @@
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\bin\Debug\net6.0\Authentication.Api.DataAccessLayer.deps.json
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\bin\Debug\net6.0\Authentication.Api.DataAccessLayer.dll
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\bin\Debug\net6.0\Authentication.Api.DataAccessLayer.pdb
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\bin\Debug\net6.0\Authentication.Api.Common.dll
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\bin\Debug\net6.0\Authentication.Api.DataModels.dll
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\bin\Debug\net6.0\Authentication.Api.DataModels.pdb
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\bin\Debug\net6.0\Authentication.Api.Common.pdb
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\obj\Debug\net6.0\Authentication.Api.DataAccessLayer.csproj.AssemblyReference.cache
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\obj\Debug\net6.0\Authentication.Api.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\obj\Debug\net6.0\Authentication.Api.DataAccessLayer.AssemblyInfoInputs.cache
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\obj\Debug\net6.0\Authentication.Api.DataAccessLayer.AssemblyInfo.cs
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\obj\Debug\net6.0\Authentication.Api.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\obj\Debug\net6.0\Authentication.Api.DataAccessLayer.csproj.CopyComplete
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\obj\Debug\net6.0\Authentication.Api.DataAccessLayer.dll
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\obj\Debug\net6.0\refint\Authentication.Api.DataAccessLayer.dll
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\obj\Debug\net6.0\Authentication.Api.DataAccessLayer.pdb
+D:\trunk\Authentication.Api\Authentication.Api.DataAccessLayer\obj\Debug\net6.0\ref\Authentication.Api.DataAccessLayer.dll

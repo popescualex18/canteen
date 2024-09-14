@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\DataAccessLayer\DataAccessLayer.csproj" />
+    <ProjectReference Include="..\Authentication.Api.Core\Authentication.Api.Core.csproj" />
+    <ProjectReference Include="..\Authentication.Api.DataModels\Authentication.Api.DataModels.csproj" />
+    <ProjectReference Include="..\Authentication.Api.DomainModels\Authentication.Api.DomainModels.csproj" />
+  </ItemGroup>
+
+</Project>

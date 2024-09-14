@@ -1,0 +1,17 @@
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\bin\Debug\net8.0\SCNeagtovo.DataModels.deps.json
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\bin\Debug\net8.0\SCNeagtovo.DataModels.runtimeconfig.json
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\bin\Debug\net8.0\SCNeagtovo.DataModels.dll
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\bin\Debug\net8.0\SCNeagtovo.DataModels.pdb
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\bin\Debug\net8.0\SCNeagtovo.Common.dll
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\bin\Debug\net8.0\SCNeagtovo.Common.pdb
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\obj\Debug\net8.0\SCNeagtovo.DataModels.csproj.AssemblyReference.cache
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\obj\Debug\net8.0\SCNeagtovo.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\obj\Debug\net8.0\SCNeagtovo.DataModels.AssemblyInfoInputs.cache
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\obj\Debug\net8.0\SCNeagtovo.DataModels.AssemblyInfo.cs
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\obj\Debug\net8.0\SCNeagtovo.DataModels.csproj.CoreCompileInputs.cache
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\obj\Debug\net8.0\SCNeagto.21757F9E.Up2Date
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\obj\Debug\net8.0\SCNeagtovo.DataModels.dll
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\obj\Debug\net8.0\refint\SCNeagtovo.DataModels.dll
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\obj\Debug\net8.0\SCNeagtovo.DataModels.pdb
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\obj\Debug\net8.0\SCNeagtovo.DataModels.genruntimeconfig.cache
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataModels\obj\Debug\net8.0\ref\SCNeagtovo.DataModels.dll

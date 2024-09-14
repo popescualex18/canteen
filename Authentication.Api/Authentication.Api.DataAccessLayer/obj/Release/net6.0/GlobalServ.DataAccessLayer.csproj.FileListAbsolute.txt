@@ -1,0 +1,17 @@
+D:\GlobalServ\GlobalServ.DataAccessLayer\bin\Release\net6.0\GlobalServ.DataAccessLayer.deps.json
+D:\GlobalServ\GlobalServ.DataAccessLayer\bin\Release\net6.0\GlobalServ.DataAccessLayer.dll
+D:\GlobalServ\GlobalServ.DataAccessLayer\bin\Release\net6.0\GlobalServ.DataAccessLayer.pdb
+D:\GlobalServ\GlobalServ.DataAccessLayer\bin\Release\net6.0\GlobalServ.Common.dll
+D:\GlobalServ\GlobalServ.DataAccessLayer\bin\Release\net6.0\GlobalServ.DataModels.dll
+D:\GlobalServ\GlobalServ.DataAccessLayer\bin\Release\net6.0\GlobalServ.DataModels.pdb
+D:\GlobalServ\GlobalServ.DataAccessLayer\bin\Release\net6.0\GlobalServ.Common.pdb
+D:\GlobalServ\GlobalServ.DataAccessLayer\obj\Release\net6.0\GlobalServ.DataAccessLayer.csproj.AssemblyReference.cache
+D:\GlobalServ\GlobalServ.DataAccessLayer\obj\Release\net6.0\GlobalServ.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GlobalServ\GlobalServ.DataAccessLayer\obj\Release\net6.0\GlobalServ.DataAccessLayer.AssemblyInfoInputs.cache
+D:\GlobalServ\GlobalServ.DataAccessLayer\obj\Release\net6.0\GlobalServ.DataAccessLayer.AssemblyInfo.cs
+D:\GlobalServ\GlobalServ.DataAccessLayer\obj\Release\net6.0\GlobalServ.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\GlobalServ\GlobalServ.DataAccessLayer\obj\Release\net6.0\GlobalServ.DataAccessLayer.csproj.CopyComplete
+D:\GlobalServ\GlobalServ.DataAccessLayer\obj\Release\net6.0\GlobalServ.DataAccessLayer.dll
+D:\GlobalServ\GlobalServ.DataAccessLayer\obj\Release\net6.0\refint\GlobalServ.DataAccessLayer.dll
+D:\GlobalServ\GlobalServ.DataAccessLayer\obj\Release\net6.0\GlobalServ.DataAccessLayer.pdb
+D:\GlobalServ\GlobalServ.DataAccessLayer\obj\Release\net6.0\ref\GlobalServ.DataAccessLayer.dll

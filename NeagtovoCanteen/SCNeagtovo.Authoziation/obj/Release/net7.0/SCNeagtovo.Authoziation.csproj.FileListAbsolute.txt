@@ -1,0 +1,12 @@
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Authoziation\obj\Release\net7.0\SCNeagtovo.Authoziation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Authoziation\obj\Release\net7.0\SCNeagtovo.Authoziation.AssemblyInfoInputs.cache
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Authoziation\obj\Release\net7.0\SCNeagtovo.Authoziation.AssemblyInfo.cs
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Authoziation\obj\Release\net7.0\SCNeagtovo.Authoziation.csproj.CoreCompileInputs.cache
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Authoziation\bin\Release\net7.0\SCNeagtovo.Authoziation.deps.json
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Authoziation\bin\Release\net7.0\SCNeagtovo.Authoziation.dll
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Authoziation\bin\Release\net7.0\SCNeagtovo.Authoziation.pdb
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Authoziation\obj\Release\net7.0\SCNeagtovo.Authoziation.csproj.AssemblyReference.cache
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Authoziation\obj\Release\net7.0\SCNeagtovo.Authoziation.dll
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Authoziation\obj\Release\net7.0\refint\SCNeagtovo.Authoziation.dll
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Authoziation\obj\Release\net7.0\SCNeagtovo.Authoziation.pdb
+D:\Neagtovo\NeagtovoCanteen\SCNeagtovo.Authoziation\obj\Release\net7.0\ref\SCNeagtovo.Authoziation.dll

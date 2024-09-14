@@ -1,0 +1,17 @@
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\bin\Debug\net6.0\SCNeagtovo.DataAccessLayer.deps.json
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\bin\Debug\net6.0\SCNeagtovo.DataAccessLayer.dll
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\bin\Debug\net6.0\SCNeagtovo.DataAccessLayer.pdb
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\bin\Debug\net6.0\SCNeagtovo.Common.dll
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\bin\Debug\net6.0\SCNeagtovo.DataModels.dll
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\bin\Debug\net6.0\SCNeagtovo.DataModels.pdb
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\bin\Debug\net6.0\SCNeagtovo.Common.pdb
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\obj\Debug\net6.0\SCNeagtovo.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\obj\Debug\net6.0\SCNeagtovo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\obj\Debug\net6.0\SCNeagtovo.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\obj\Debug\net6.0\SCNeagtovo.DataAccessLayer.AssemblyInfo.cs
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\obj\Debug\net6.0\SCNeagtovo.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\obj\Debug\net6.0\SCNeagto.739E6C98.Up2Date
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\obj\Debug\net6.0\SCNeagtovo.DataAccessLayer.dll
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\obj\Debug\net6.0\refint\SCNeagtovo.DataAccessLayer.dll
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\obj\Debug\net6.0\SCNeagtovo.DataAccessLayer.pdb
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.DataAccessLayer\obj\Debug\net6.0\ref\SCNeagtovo.DataAccessLayer.dll

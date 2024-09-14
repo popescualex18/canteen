@@ -1,0 +1,17 @@
+D:\GlobalServ\GlobalServ.DataModels\bin\Release\net6.0\GlobalServ.DataModels.deps.json
+D:\GlobalServ\GlobalServ.DataModels\bin\Release\net6.0\GlobalServ.DataModels.runtimeconfig.json
+D:\GlobalServ\GlobalServ.DataModels\bin\Release\net6.0\GlobalServ.DataModels.dll
+D:\GlobalServ\GlobalServ.DataModels\bin\Release\net6.0\GlobalServ.DataModels.pdb
+D:\GlobalServ\GlobalServ.DataModels\bin\Release\net6.0\GlobalServ.Common.dll
+D:\GlobalServ\GlobalServ.DataModels\bin\Release\net6.0\GlobalServ.Common.pdb
+D:\GlobalServ\GlobalServ.DataModels\obj\Release\net6.0\GlobalServ.DataModels.csproj.AssemblyReference.cache
+D:\GlobalServ\GlobalServ.DataModels\obj\Release\net6.0\GlobalServ.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\GlobalServ\GlobalServ.DataModels\obj\Release\net6.0\GlobalServ.DataModels.AssemblyInfoInputs.cache
+D:\GlobalServ\GlobalServ.DataModels\obj\Release\net6.0\GlobalServ.DataModels.AssemblyInfo.cs
+D:\GlobalServ\GlobalServ.DataModels\obj\Release\net6.0\GlobalServ.DataModels.csproj.CoreCompileInputs.cache
+D:\GlobalServ\GlobalServ.DataModels\obj\Release\net6.0\GlobalServ.DataModels.csproj.CopyComplete
+D:\GlobalServ\GlobalServ.DataModels\obj\Release\net6.0\GlobalServ.DataModels.dll
+D:\GlobalServ\GlobalServ.DataModels\obj\Release\net6.0\refint\GlobalServ.DataModels.dll
+D:\GlobalServ\GlobalServ.DataModels\obj\Release\net6.0\GlobalServ.DataModels.pdb
+D:\GlobalServ\GlobalServ.DataModels\obj\Release\net6.0\GlobalServ.DataModels.genruntimeconfig.cache
+D:\GlobalServ\GlobalServ.DataModels\obj\Release\net6.0\ref\GlobalServ.DataModels.dll

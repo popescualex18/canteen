@@ -1,0 +1,11 @@
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.Common\bin\Debug\net8.0\SCNeagtovo.Common.deps.json
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.Common\bin\Debug\net8.0\SCNeagtovo.Common.dll
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.Common\bin\Debug\net8.0\SCNeagtovo.Common.pdb
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.Common\obj\Debug\net8.0\SCNeagtovo.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.Common\obj\Debug\net8.0\SCNeagtovo.Common.AssemblyInfoInputs.cache
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.Common\obj\Debug\net8.0\SCNeagtovo.Common.AssemblyInfo.cs
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.Common\obj\Debug\net8.0\SCNeagtovo.Common.csproj.CoreCompileInputs.cache
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.Common\obj\Debug\net8.0\SCNeagtovo.Common.dll
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.Common\obj\Debug\net8.0\refint\SCNeagtovo.Common.dll
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.Common\obj\Debug\net8.0\SCNeagtovo.Common.pdb
+D:\Neagtovo\SCNeagtovo\SCNeagtovo.Common\obj\Debug\net8.0\ref\SCNeagtovo.Common.dll

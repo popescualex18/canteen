@@ -1,0 +1,12 @@
+D:\GlobalServ\GlobalServ.Common\bin\Release\net6.0\GlobalServ.Common.deps.json
+D:\GlobalServ\GlobalServ.Common\bin\Release\net6.0\GlobalServ.Common.dll
+D:\GlobalServ\GlobalServ.Common\bin\Release\net6.0\GlobalServ.Common.pdb
+D:\GlobalServ\GlobalServ.Common\obj\Release\net6.0\GlobalServ.Common.csproj.AssemblyReference.cache
+D:\GlobalServ\GlobalServ.Common\obj\Release\net6.0\GlobalServ.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\GlobalServ\GlobalServ.Common\obj\Release\net6.0\GlobalServ.Common.AssemblyInfoInputs.cache
+D:\GlobalServ\GlobalServ.Common\obj\Release\net6.0\GlobalServ.Common.AssemblyInfo.cs
+D:\GlobalServ\GlobalServ.Common\obj\Release\net6.0\GlobalServ.Common.csproj.CoreCompileInputs.cache
+D:\GlobalServ\GlobalServ.Common\obj\Release\net6.0\GlobalServ.Common.dll
+D:\GlobalServ\GlobalServ.Common\obj\Release\net6.0\refint\GlobalServ.Common.dll
+D:\GlobalServ\GlobalServ.Common\obj\Release\net6.0\GlobalServ.Common.pdb
+D:\GlobalServ\GlobalServ.Common\obj\Release\net6.0\ref\GlobalServ.Common.dll

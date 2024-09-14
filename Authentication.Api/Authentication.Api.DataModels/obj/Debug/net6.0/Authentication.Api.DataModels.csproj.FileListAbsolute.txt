@@ -1,0 +1,17 @@
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\bin\Debug\net6.0\Authentication.Api.DataModels.deps.json
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\bin\Debug\net6.0\Authentication.Api.DataModels.runtimeconfig.json
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\bin\Debug\net6.0\Authentication.Api.DataModels.dll
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\bin\Debug\net6.0\Authentication.Api.DataModels.pdb
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\bin\Debug\net6.0\Authentication.Api.Common.dll
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\bin\Debug\net6.0\Authentication.Api.Common.pdb
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\obj\Debug\net6.0\Authentication.Api.DataModels.csproj.AssemblyReference.cache
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\obj\Debug\net6.0\Authentication.Api.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\obj\Debug\net6.0\Authentication.Api.DataModels.AssemblyInfoInputs.cache
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\obj\Debug\net6.0\Authentication.Api.DataModels.AssemblyInfo.cs
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\obj\Debug\net6.0\Authentication.Api.DataModels.csproj.CoreCompileInputs.cache
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\obj\Debug\net6.0\Authentication.Api.DataModels.dll
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\obj\Debug\net6.0\refint\Authentication.Api.DataModels.dll
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\obj\Debug\net6.0\Authentication.Api.DataModels.pdb
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\obj\Debug\net6.0\Authentication.Api.DataModels.genruntimeconfig.cache
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\obj\Debug\net6.0\ref\Authentication.Api.DataModels.dll
+D:\trunk\Authentication.Api\Authentication.Api.DataModels\obj\Debug\net6.0\Authenti.DE5093AB.Up2Date
