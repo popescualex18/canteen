@@ -3,6 +3,7 @@
 ## Overview
 
 The Canteen Management System is a comprehensive web application designed to manage daily menus, orders, and menu items for a canteen. This system allows for easy management of menus, processing of orders, and generation of daily menu overviews.
+Live: http://neagtovo.live
 
 ## Features
 
@@ -15,8 +16,8 @@ The Canteen Management System is a comprehensive web application designed to man
 ## Technologies Used
 
 - **Frontend**: Angular
-- **Backend**: (Specify backend technology if applicable, e.g., Node.js, Express)
-- **Database**: (Specify database if applicable, e.g., MongoDB, SQL Server)
+- **Backend**: .Net
+- **Database**: SQL Server
 - **Others**: Angular Material, RxJS, FileSaver.js, html-to-image
 
 ## Getting Started
