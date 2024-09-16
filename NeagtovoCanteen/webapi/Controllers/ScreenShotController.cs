@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PuppeteerSharp;
-using PuppeteerSharp.Input;
 using PuppeteerSharp.Media;
 
 namespace SCNeagtovo.Api.Controllers
@@ -14,24 +13,24 @@ namespace SCNeagtovo.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> GetScreenshot()
         {
-            var url = @"http://86.123.235.136:81/daily-menu-overview?selectedDate=01%2F03%2F2024";
-        
+            var url = @"http://86.123.235.136:81/menu/daily-menu-overview?selectedDate=01%2F03%2F2024";
+
             var launchOptions = new LaunchOptions
             {
                 ExecutablePath = _chromeExecutablePath,
                 Headless = true,
                 DefaultViewport = new ViewPortOptions
                 {
-                    Width= 1510,
-                    Height=980,
+                    Width = 1510,
+                    Height = 980,
                 }
-                
+
             };
 
             using var browser = await Puppeteer.LaunchAsync(launchOptions);
             using var page = await browser.NewPageAsync();
             await page.GoToAsync(url);
-            var selector = ".content-container.mb-3"; // Hardcoded selector
+            var selector = "#daily-menu"; // Hardcoded selector
             await page.WaitForSelectorAsync(selector);
             var element = await page.QuerySelectorAsync(selector);
             if (element == null)

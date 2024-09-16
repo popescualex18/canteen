@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NeagtovoCanteen/.vs/NeagtovoCanteen/FileContentIndex
+/NeagtovoCanteen/webapi/obj/Release/net8.0
