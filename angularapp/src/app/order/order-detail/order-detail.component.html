@@ -1,0 +1,126 @@
+
+<div class="button-container" *ngIf="order">
+  
+  <button mat-raised-button color="accent" (click)="order!.isNew ? saveOrder() : updateOrder()" [disabled]="!orderForm.valid || order!.items.length == 0">Salveaza</button>
+  <button mat-raised-button color="accent" (click)="printReceipt()"[disabled]="order!.isNew">Printeaza</button>
+</div>
+<div id="printableArea" class="container"  *ngIf="order" style="display: flex; justify-content: center; align-items: center; ">
+  <div class="row">
+    <div class="receipt-main col-xs-10 col-sm-10 col-md-6 col-xs-offset-1 col-sm-offset-1 col-md-offset-3">
+      <div class="row">
+        <div class="receipt-header receipt-header-mid">
+          <div class="col-xs-8 col-sm-8 col-md-8 text-left">
+            <div class="receipt-right" [formGroup]="orderForm">
+              <p>
+                <b>Client :</b>
+                <input formControlName="client" type="text" placeholder="Client" />
+                <mat-error *ngIf="orderForm.controls['client'].errors?.['required'] ">Adaugati un client.</mat-error>
+                <mat-error *ngIf="orderForm.controls['client'].hasError('minlength') ">Minim 3 caractere.</mat-error>
+                <br>
+              </p>
+              <p>
+                <b>Mobile :</b>
+                <input 
+      id="mobile"
+      formControlName="mobile"
+      type="tel"
+      pattern="[0-9]*"
+      inputmode="numeric"
+      (input)="onInput($event)"
+      maxlength="10"
+    />
+              
+                <mat-error *ngIf="orderForm.get('mobile')?.hasError('invalidPhoneNumber')">
+                  Format invalid.
+                </mat-error>
+              </p>
+              <p>
+                <b>Address :</b>
+                <input formControlName="address" type="text" placeholder="Address" />
+                <mat-error *ngIf="orderForm.controls['address'].errors?.['required'] ">Adaugati o adresa.</mat-error>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th style="width: 500px;">Meniu</th>
+              <th style="width: 40px;">Mentiuni</th>
+              <th style="width: 30px">Pret</th>
+             
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let item of order!.items; let i = index">
+              <td class="col-md-9">
+                <span (click)="remove(item.menu.id)" style="color: red; cursor: pointer; display: inline-block; padding: 0 5px; font-weight: bold;">--</span>
+                <span style="cursor:pointer;" (click)="edit(item, i)">{{ item.menu.name }} x {{item.quantity}}</span><br>
+                
+              </td>
+              <td class="col-md-3">
+                <b *ngIf="item.mention">{{ item.mention }}</b> 
+              </td>
+              <td class="col-md-6"><i class="fa fa-inr"></i> {{ item.menu.price }} x {{item.quantity}} = {{ item.menu.price! * item.quantity}} </td>
+            </tr>
+            <tr>
+              <td class="text-right" colspan="2"><h2><strong>Total: </strong></h2></td>
+              <td class="text-left text-danger"><h2><strong><i class="fa fa-inr"></i> {{ order!.amount }} LEI</strong></h2></td>
+            </tr>
+          </tbody>
+        </table>
+        <mat-error *ngIf="order!.items.length == 0">Adaugati produse la comanda.</mat-error>
+      </div>
+      <div class="row">
+        <div class="receipt-header receipt-header-mid receipt-footer">
+          <div class="col-xs-8 col-sm-8 col-md-8 text-left">
+            <div class="receipt-right">
+              <p><b>Date :</b> {{ order!.date }}</p>
+            </div>
+          </div>
+        </div>
+        <div class="receipt-header receipt-header-mid receipt-footer">
+          <div class="col-xs-8 col-sm-8 col-md-8 text-left">
+            <div class="receipt-right">
+              <p><b>Numar comanda :</b> {{ order!.orderNumber }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div *ngIf="editable">
+  <input type="text" placeholder="Filtreaza meniurile" #filter (keyup)="filterResults(filter.value)" style="border: solid 1px blue !important; /* Blue border */
+  padding: 10px !important;
+  border-radius: 8px !important;
+  margin-right: 4px !important;
+  display: block !important; /* Ensure input is a block element for centering */
+  width: 40% !important;
+  margin: 0 auto !important;">
+  <br>
+  <div class="container responsive-grid">
+   
+    <mat-card *ngFor="let card of filteredMenues; let i = index" >
+      <mat-card-header>
+        <mat-card-title>{{ card.name }} </mat-card-title>
+      </mat-card-header>
+      <mat-card-content> 
+        <hr>
+        <p>Pret: {{ card.price }}</p>
+        <hr>
+        <p>Paine: {{card.hasBread ? "Da" : "Nu"}}</p>
+        <hr>
+        <p>Paine: {{card.hasPolenta ? "Da" : "Nu"}}</p>
+        <hr>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-button (click)="add(card)" color="primary">Adauga</button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</div>
+
+

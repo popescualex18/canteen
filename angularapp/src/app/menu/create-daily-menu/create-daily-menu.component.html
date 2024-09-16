@@ -1,0 +1,70 @@
+
+
+<mat-accordion class="example-headers-align" multi="false">
+  <button mat-raised-button
+    #tooltip="matTooltip"
+    (click)="loadMenuData()"
+    matTooltip="Actualizeaza meniul"
+    matTooltipPosition="above"
+    aria-label="Button that displays a tooltip that hides when scrolled out of the container"
+    class="example-button"
+    style="margin-bottom: 10px; width: 230px;"
+  >
+    Actualizeaza meniul
+  </button>
+  <br>
+  <button mat-raised-button
+    #tooltip="matTooltip"
+    (click)="navigateToDailyMenu()"
+    [disabled]="!selectedDate"
+    matTooltip="Vezi meniul"
+    matTooltipPosition="above"
+    aria-label="Button that displays a tooltip that hides when scrolled out of the container"
+    class="example-button"
+    style="margin-bottom: 10px; width: 230px;"
+  >
+    Vezi meniul
+  </button>
+
+  <ng-container *ngFor="let menu of menuTypes; let i = index">
+    <mat-expansion-panel [expanded]="currentStep === i" (opened)="setStep(i)" [disabled]="!selectedDate">
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          {{ getMenuTitle(i) }}
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+  
+      <form class="menu-form">
+        <mat-form-field class="example-chip-list" style="width: 100%;">
+          <mat-label>Meniuri selectate</mat-label>
+          <mat-chip-grid #chipGrid aria-label="Menu selection">
+            <!-- Display chips with the close icon at the start -->
+            <mat-chip-row *ngFor="let menu of selectedMenues" (removed)="remove(menu.id)" class="chip-row">
+              
+              <div class="chip-content">
+                <button mat-icon-button matChipRemove [attr.aria-label]="'remove ' + menu.id">
+                  <mat-icon>cancel</mat-icon>
+                </button>
+                {{menu.name.toLocaleUpperCase()}}
+              </div>
+              
+            </mat-chip-row>
+          </mat-chip-grid>
+          <input placeholder="Selecteaza un nou meniu..." #fruitInput [formControl]="menuCtrl"
+            [matChipInputFor]="chipGrid" [matAutocomplete]="auto" style="width: 100%;" />
+          <mat-autocomplete #auto="matAutocomplete" (optionSelected)="selected($event)">
+            <mat-option *ngFor="let menu of filteredMenues" [value]="menu.id">
+              {{menu.name}}
+            </mat-option>
+          </mat-autocomplete>
+        </mat-form-field>
+      </form>
+      
+      
+      <mat-action-row class="action-row">
+        <button mat-button color="warn" (click)="prevStep()" *ngIf="i > 0" style="width: 100%; margin-bottom: 10px;">Inapoi</button>
+        <button mat-button color="primary" (click)="nextStep()" *ngIf="i < menuTypes.length - 1" style="width: 100%;">Urmatorul</button>
+      </mat-action-row>
+    </mat-expansion-panel>
+  </ng-container>
+</mat-accordion>

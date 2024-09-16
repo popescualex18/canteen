@@ -1,0 +1,56 @@
+
+<button mat-raised-button
+#tooltip="matTooltip"
+(click)="addOrder()"
+matTooltip="Adauga comanda"
+matTooltipPosition="above"
+aria-label="Button that displays a tooltip that hides when scrolled out of the container"
+class="example-button"
+style="margin-bottom: 10px; width: 230px;"
+>
+Adauga comanda
+</button>
+  <mat-card class="m-4 p-2 mb-3">
+    <div class="table-wrapper">
+      <mat-table [dataSource]="dataSource" matSort>
+  
+       <!-- ID Column -->
+       <ng-container matColumnDef="orderNr">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Nr. Comanda </mat-header-cell>
+        <mat-cell *matCellDef="let order"> #{{order.orderNumber}} </mat-cell>
+      </ng-container>  
+      <ng-container matColumnDef="customer">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Client </mat-header-cell>
+        <mat-cell *matCellDef="let order"> {{order.client}} </mat-cell>
+      </ng-container>  
+      <!-- Date Column -->
+      <ng-container matColumnDef="date">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Data </mat-header-cell>
+        <mat-cell *matCellDef="let order"> {{order.date}}</mat-cell>
+      </ng-container>  
+        <!-- Table Number Column -->
+        <ng-container matColumnDef="total">
+          <mat-header-cell *matHeaderCellDef mat-sort-header> Total </mat-header-cell>
+          <mat-cell *matCellDef="let order"> {{getOrderTotal(order)}} Lei </mat-cell >
+        </ng-container> 
+        
+      <!-- View Column -->
+      <ng-container matColumnDef="actions">
+        <mat-header-cell *matHeaderCellDef> Actiuni </mat-header-cell>
+        <mat-cell *matCellDef="let order"> 
+          <button mat-icon-button color="primary" (click)="view(order)" matTooltip="Editeaza">
+            <mat-icon>visibility</mat-icon>
+          </button> 
+          <button mat-icon-button color="primary" (click)="delete(order)" matTooltip="Sterge">
+            <mat-icon>close</mat-icon>
+          </button> 
+        </mat-cell>
+      </ng-container>
+        <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+        <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+      </mat-table>
+  
+      <mat-paginator [pageSizeOptions]="[5, 10, 25, 100]" [pageSize]="100"></mat-paginator>
+    </div>
+  
+  </mat-card>

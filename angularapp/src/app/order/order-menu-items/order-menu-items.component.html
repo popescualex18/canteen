@@ -1,0 +1,55 @@
+<h1 mat-dialog-title>Add Item</h1>
+<div mat-dialog-content>
+  <form [formGroup]="itemForm" (ngSubmit)="onSubmit()">
+
+    <!-- Item Selection -->
+    <mat-form-field appearance="fill" *ngIf="data.showdropDown">
+      <mat-label>Selecteaza meniu:</mat-label>
+      <mat-select formControlName="item" required>
+        <mat-option *ngFor="let item of items" [value]="item">
+          {{ item.name }}
+        </mat-option>
+      </mat-select>
+      <mat-error *ngIf="itemForm.get('item')?.hasError('required')">
+        Trebuie sa selectezi un meniu.
+      </mat-error>
+    </mat-form-field>
+
+    <!-- Quantity Input -->
+    <mat-form-field appearance="fill">
+      <mat-label>Cantitate</mat-label>
+      <input
+        matInput
+        formControlName="quantity"
+        type="number"
+        min="1"
+        required
+        placeholder="Enter the quantity"
+        matTooltip="Enter the number of items you want to add"
+      />
+      <mat-error *ngIf="itemForm.get('quantity')?.hasError('required')">
+        Trebuie sa selectezi cantitate.
+      </mat-error>
+      <mat-error *ngIf="itemForm.get('quantity')?.hasError('min')">
+        Cantitatea selectata trebuie sa fie cel putin 1.
+      </mat-error>
+    </mat-form-field>
+
+    <!-- Mentions Input -->
+    <mat-form-field appearance="fill" class="w-100">
+      <mat-label>Mentiuni:</mat-label>
+      <textarea
+        matInput
+        formControlName="mentions"
+        matTooltip="Adaugati detalii extra pentru meniul selectat"
+        rows="3"
+      ></textarea>
+    </mat-form-field>
+
+    <!-- Actions -->
+    <div mat-dialog-actions>
+      <button mat-button (click)="onCancel()">Anuleaza</button>
+      <button mat-raised-button color="primary" type="submit">Adauga</button>
+    </div>
+  </form>
+</div>

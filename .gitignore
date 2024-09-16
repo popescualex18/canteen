@@ -1,6 +1,5 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+obj/
 
-/NeagtovoCanteen/.vs/NeagtovoCanteen/FileContentIndex
-/NeagtovoCanteen/webapi/obj/Release/net8.0
+NeagtovoCanteen/.vs/NeagtovoCanteen/FileContentIndex/99d42638-a003-4726-b8fd-0b1bfd57967a.vsidx
+NeagtovoCanteen/.vs/NeagtovoCanteen/FileContentIndex/d121c8ba-688e-4901-be44-228deb8a362e.vsidx
+NeagtovoCanteen/.vs/NeagtovoCanteen/FileContentIndex/e940c86b-ae12-4463-b2c9-95d69136e40a.vsidx

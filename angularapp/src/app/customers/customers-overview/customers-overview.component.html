@@ -1,0 +1,30 @@
+<!-- Parent container for layout -->
+<input type="text" placeholder="Filtreaza meniurile" #filter (keyup)="filterResults(filter.value)">
+<div class="content-container">
+
+ 
+  <!-- Card Grid Below the Search Box -->
+  <div class="container responsive-grid">
+    <mat-card class="card-container" >
+      <mat-icon class="plus-icon" color="primary" (click)="addNew()">add</mat-icon>
+    </mat-card>
+    <mat-card *ngFor="let card of filteredMenuData">
+      <mat-card-header>
+        <mat-card-title>{{ card.name }} </mat-card-title>
+      </mat-card-header>
+      <mat-card-content> 
+        <hr>
+        <p>Adresa: {{ card.address }}</p>
+        <hr>
+        <p>Numer de telefon: {{card.phoneNumber}}</p>
+        <hr>
+        <p>Email: {{card.email}}</p>
+        <hr>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-button >Editeaza</button>
+        <button mat-button >Sterge</button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</div>

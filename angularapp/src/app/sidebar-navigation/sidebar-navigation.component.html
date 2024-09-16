@@ -1,0 +1,51 @@
+<mat-toolbar class="mat-elevation-z8">
+  <div class="toolbar-content">
+    <button mat-icon-button *ngIf="sidenav && sidenav.mode === 'over'" (click)="sidenav.toggle()">
+      <mat-icon *ngIf="!sidenav.opened"> menu </mat-icon>
+      <mat-icon *ngIf="sidenav.opened"> close </mat-icon>
+    </button>
+    <span>Cantina La Neagtovo</span>
+    <span class="spacer"></span>
+    <button mat-icon-button matToolTip="Descarca meniul" *ngIf="isDailyMenuRoute" (click)="download()">
+      <mat-icon>download</mat-icon>
+    </button>
+    <button mat-icon-button matToolTip="Logout" *ngIf="isLoggedIn" (click)="logout()">
+      <mat-icon>logout</mat-icon>
+    </button>
+    <button mat-icon-button matToolTip="Login" *ngIf="!isLoggedIn" routerLink="/">
+      <mat-icon>login</mat-icon>
+    </button>
+  </div>
+</mat-toolbar>
+
+<mat-sidenav-container>
+  <mat-sidenav #sidenav="matSidenav" class="mat-elevation-z8" *ngIf="isLoggedIn">
+    <mat-icon class="mat-elevation-z8 " fontSet="custom">{{userInitial}}</mat-icon>
+    <h4 class="name">{{loggedInUser}}</h4>
+
+    <mat-divider></mat-divider>
+
+    <button mat-button class="menu-button" routerLinkActive="active-menu"  [routerLinkActiveOptions]="{ exact: true }" routerLink="/menu">
+
+      <span>Definitie meniuri</span>
+    </button>
+    <button mat-button class="menu-button" routerLinkActive="active-menu"  [routerLinkActiveOptions]="{ exact: true }" routerLink="/menu/daily-menu">
+
+      <span>Adauga meniul zilei</span>
+    </button>
+    <button mat-button class="menu-button" routerLinkActive="active-menu" routerLink="/orders">
+
+      <span>Comenzi</span>
+    </button>
+    <button mat-button class="menu-button" routerLinkActive="active-menu" routerLink="/customers">
+
+      <span>Clienti</span>
+    </button>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <div class="content mat-elevation-z8">
+      <app-spinner></app-spinner>
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

@@ -1,0 +1,137 @@
+<div style="display: flex;justify-content: center; align-items: center;" id="daily-menu">
+  <div id="rm-container" class="rm-container rm-open">
+    <div class="rm-wrapper">
+      <div class="rm-cover">
+        <div class="rm-back">
+          <div class="rm-content">
+            <h4 (click)=openDialog(MenuType.SoupMenu)>Ciorbe &amp; Supe</h4>
+            <dl>
+              <dt *ngFor="let menu of getMenuItemsByType(MenuType.SoupMenu)">
+                {{ menu.menuName }} - {{ menu.price }} lei
+              </dt>
+            </dl>
+
+            <h4 (click)=openDialog(MenuType.SaladsMenu)>Salate</h4>
+            <dl>
+              <dt *ngFor="let menu of getMenuItemsByType(MenuType.SaladsMenu)">
+                {{ menu.menuName }} - {{ menu.price }}
+                lei
+              </dt>
+            </dl>
+            <h4 (click)=openDialog(MenuType.OtherMenu)>Diverse</h4>
+            <dl>
+              <dt *ngFor="let menu of getMenuItemsByType(MenuType.OtherMenu)">
+                {{ menu.menuName }} - {{ menu.price }} lei
+              </dt>
+            </dl>
+          </div>
+          <!-- /rm-content -->
+          <div class="rm-overlay"></div>
+
+        </div>
+        <!-- /rm-back -->
+      </div><!-- /rm-cover -->
+      <div class="rm-middle">
+        <div class="rm-inner">
+          <div class="rm-content">
+            <h4 (click)=openDialog(MenuType.DailyMenu)>Meniul Zilei - 22 lei</h4>
+            <dl>
+              <dt *ngFor="let menu of getMenuItemsByType(MenuType.DailyMenu)">{{ menu.dailyMenuName }}</dt>
+            </dl>
+            <h4 (click)=openDialog(MenuType.ChoiceMenu)>Meniu la alegere</h4>
+            <dl>
+              <dt *ngFor="let menu of getMenuItemsByType(MenuType.ChoiceMenu)">
+                {{ menu.menuName }} - {{ menu.price }}
+                lei
+              </dt>
+            </dl>
+            <div class="image-container">
+              <img src="assets/logo_cantina.jpg" style="width: 90%; height:200px;" alt="Cantina Logo" />
+            </div>
+
+          </div>
+          <!-- /rm-content -->
+          <div class="rm-overlay"></div>
+        </div>
+        <!-- /rm-inner -->
+      </div>
+      <div class="rm-right">
+
+        <div class="rm-front">
+        </div>
+
+        <div class="rm-back">
+          <div class="rm-content">
+            <h4 (click)=openDialog(MenuType.MeatMenu)>Carne</h4>
+            <dl>
+              <dt *ngFor="let menu of getMenuItemsByType(MenuType.MeatMenu)">
+                {{ menu.menuName }} - {{ menu.price }} lei
+              </dt>
+            </dl>
+            <h4 (click)=openDialog(MenuType.SidesMenu)>Garnituri</h4>
+            <dl>
+              <dt *ngFor="let menu of getMenuItemsByType(MenuType.SidesMenu)">
+                {{ menu.menuName }} - {{ menu.price }} lei
+              </dt>
+            </dl>
+            <div class="rm-order" style="padding-top:5px">
+              <h2>
+                Comenzi telefonice: 0735232211/0773964460
+
+              </h2>
+              <h2>
+                Comenzile se vor prelua pana in ora 11:30!
+              </h2>
+            </div>
+          </div>
+          <!-- /rm-content -->
+        </div><!-- /rm-back -->
+      </div>
+      <!--</div>--><!-- /rm-wrapper -->
+      <!--</div>--><!-- /rm-container -->
+    </div>
+  </div>
+</div>
+-
+<!--<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Restaurant Menu</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="menu-container">
+    <div class="header">
+      <div class="title">
+        <img src="cutlery-icon.png" alt="Cutlery Icon" class="icon">
+        <h1>RESTAURANT</h1>
+        <p>Good Food</p>
+      </div>
+    </div>
+    <div class="menu-section">
+      <div class="menu-category">
+        <h2>Main Dishes</h2>
+        <div class="menu-items" id="main-dishes"></div>
+      </div>
+      <div class="menu-category">
+        <h2>Salads</h2>
+        <div class="menu-items" id="salads"></div>
+      </div>
+      <div class="menu-category">
+        <h2>Snacks</h2>
+        <div class="menu-items" id="snacks"></div>
+      </div>
+      <div class="menu-category">
+        <h2>Desserts</h2>
+        <div class="menu-items" id="desserts"></div>
+      </div>
+      <div class="menu-category">
+        <h2>Drinks</h2>
+        <div class="menu-items" id="drinks"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>-->

@@ -1,0 +1,12 @@
+<h2>Reorder Items</h2>
+<div class="input-list">
+    <div class="input-item" *ngFor="let item of data.items; let index = index"
+    draggable="true" (dragstart)="dragStart($event, index)"
+    (dragover)="dragOver($event)" (drop)="drop($event, index)">
+ <input type="text" [value]="this.data.selector(item)" readonly>
+</div>
+
+</div>
+<div class="buttons">
+  <button mat-raised-button color="primary" (click)="onNoClick()">Close</button>
+</div>

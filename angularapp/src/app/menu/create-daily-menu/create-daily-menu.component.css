@@ -1,0 +1,24 @@
+.chip-row {
+    display: flex;
+    align-items: center;
+    width: 100%; 
+    overflow: clip; /* Hide overflowing text */
+    text-overflow: ellipsis; /* Show ellipsis for clipped text */
+    white-space: nowrap; /* Prevent text from wrapping *//* Ensure the chip takes the full width */
+  }
+  
+  .chip-content {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    flex: 1 1 75%; /* The content area takes up 75% of the width */
+    
+  }
+  
+  .chip-content button {
+    margin-right: 4px; /* Spacing between the button and text */
+  }
+  
+  .chip-row button {
+    flex: 0 1 auto; /* Button takes only as much space as needed */
+  }
+  
